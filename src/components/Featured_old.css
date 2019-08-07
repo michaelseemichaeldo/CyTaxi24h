@@ -1,0 +1,10 @@
+.slide-container {
+    width: 80%;
+    margin: auto; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top:0px;
+    display: flex;
+}
+  
